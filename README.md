@@ -21,26 +21,26 @@ We welcome suggestions for enhancements to make the app even better.
 
 - **Features**
 
-- Real-Time Conversion – Fetches latest currency exchange rates from a public API.
-- Multiple Currency Support – Convert between popular global currencies.
-- Country Flags – Displays national flags for selected currencies.
-- Responsive Design – Works smoothly on both desktop and mobile devices.
-- Instant Calculation – Updates results as soon as you click the convert button.
+1) Real-Time Conversion – Fetches latest currency exchange rates from a public API.
+2) Multiple Currency Support – Convert between popular global currencies.
+3) Country Flags – Displays national flags for selected currencies.
+4) Responsive Design – Works smoothly on both desktop and mobile devices.
+5) Instant Calculation – Updates results as soon as you click the convert button.
 
 
 - **Future Plans**
 
-- Offline Mode – Store recent exchange rates locally for offline use.
-- Favorites List – Save frequently used currency pairs for quick access.
-- Historical Data – View past exchange rates for trend analysis.
-- Theme Customization – Light and dark mode options.
+1) Offline Mode – Store recent exchange rates locally for offline use.
+2)  Favorites List – Save frequently used currency pairs for quick access.
+3) Historical Data – View past exchange rates for trend analysis.
+4) Theme Customization – Light and dark mode options.
 
 
 - **Tech Stack**
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
-- API: [Currency API](https://latest.currency-api.pages.dev/)
+1) HTML5
+2) CSS3
+3) JavaScript (Vanilla JS)
+4) API: [Currency API](https://latest.currency-api.pages.dev/)
 
 
