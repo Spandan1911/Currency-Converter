@@ -3,7 +3,7 @@
   
 Welcome to the Currency Converter application!  
 This web app allows you to quickly and accurately convert between different currencies in real-time.  
-Whether you’re traveling, shopping online, or simply curious about exchange rates, this app makes the process fast and easy
+Whether you’re traveling, shopping online, or simply curious about exchange rates, this app makes the process fast and easy.
 
 
 - **Currency Converter Overview**
