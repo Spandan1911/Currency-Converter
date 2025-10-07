@@ -1,5 +1,5 @@
 const BASE_URL = "https://latest.currency-api.pages.dev/v1/currencies";
-...
+..
 const dropdowns = document.querySelectorAll(".dropdown select");
 const btn = document.querySelector("form button");
 const fromCurr = document.querySelector(".from select");
