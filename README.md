@@ -6,7 +6,7 @@ This web app allows you to quickly and accurately convert between different curr
 Whether you’re traveling, shopping online, or simply curious about exchange rates, this app makes the process fast and easy. 
 
  
-- **Currency Converter Overview**
+- **Currency Converter Overview** 
  
 Currency Converter is designed to provide up-to-date exchange rates for multiple global currencies.  
 It fetches live data from a free public API and displays the results instantly, with country flags for visual reference.
