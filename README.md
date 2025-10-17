@@ -13,7 +13,7 @@ It fetches live data from a free public API and displays the results instantly, 
 
  
 - **Application Status**
-
+ 
 The application is currently fully functional and stable.  
 All core features are working as expected, and the app is ready for public use.  
 We welcome suggestions for enhancements to make the app even better.
